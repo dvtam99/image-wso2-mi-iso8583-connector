@@ -1,0 +1,4 @@
+<import xmlns="http://ws.apache.org/ns/synapse"
+        name="iso8583"
+        package="org.wso2.carbon.connector"
+        status="enabled"/>
